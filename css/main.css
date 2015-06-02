@@ -184,7 +184,7 @@ main section{
 }
 
 .gallery .thumbs img.selected{
-    border-color: #FF6600;
+    border: 2px dashed #FF6600;
     filter: grayscale(0);
     opacity: 1;
 }
